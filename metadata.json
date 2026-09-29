@@ -1,0 +1,6 @@
+{
+  "name": "BhuSync AI — WebGIS Land Information System",
+  "description": "Enterprise WebGIS Land Information System for automated integration, CRS transformation, ETL pipelines, and multi-source cadastral harmonization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
